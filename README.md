@@ -1,2 +1,2 @@
 # flask-website-template
-Template to use to set up any basic website using Flask
+Boilerplate code template to use to set up any basic website using Flask (with PythonAnywhere compatibility)
